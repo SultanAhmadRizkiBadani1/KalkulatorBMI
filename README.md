@@ -18,7 +18,7 @@ Prasyarat
 
 Cara Menjalankan Aplikasi
 1. Clone repositori ini:
-git clone <repository-url>
+git clone <[repository-url](https://github.com/SultanAhmadRizkiBadani1/KalkulatorBMI.git)>
 2. Buka proyek ini di Android Studio.
 3. Biarkan Android Studio menyinkronkan proyek dan mengunduh semua dependensi.
 4. Hubungkan perangkat Android atau jalankan emulator.
